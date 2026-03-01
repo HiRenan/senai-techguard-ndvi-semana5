@@ -1,0 +1,15 @@
+numpy
+matplotlib
+rasterio
+opencv-python
+notebook
+
+# Optional geospatial/statistics stack used in other activities
+whitebox>=2.3.2
+hydrobr
+geopandas
+shapely
+contextily
+pykrige
+scipy
+scikit-learn
