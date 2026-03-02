@@ -17,3 +17,8 @@ AGENTS.md
 
 # Large local geospatial rasters (keep local, do not version)
 NDVI_implementation/src/*.tif
+
+# Local downloads/exports from Copernicus Browser
+Browser_images/
+NDVI_implementation/raw/
+Screenshot_*.png
